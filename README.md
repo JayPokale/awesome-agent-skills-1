@@ -216,6 +216,7 @@ Official skills for ML workflows.
 - [Bria-AI/video-remove-background](https://github.com/Bria-AI/bria-skill/tree/main/skills/video-remove-background) - Remove video backgrounds for transparent, alpha-channel clips
 - [Bria-AI/vgl](https://github.com/Bria-AI/bria-skill/tree/main/skills/vgl) - Structured JSON control over AI image generation (FIBO)
 - [Bria-AI/image-utils](https://github.com/Bria-AI/bria-skill/tree/main/skills/image-utils) - Resize, crop, composite, and convert images with Pillow
+
 ### Cloud & Infrastructure
 
 #### Skills by Cloudflare
@@ -330,9 +331,9 @@ Install from [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstrea
 
 ---
 
-
 #### Skills by Ivy
 - [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
+
 ### Google Ecosystem
 
 #### Skills by Google Labs (Stitch)
@@ -365,6 +366,7 @@ Install from [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstrea
 
 #### Skills by SocialClaw
 - [ndesv21/socialclaw](https://github.com/ndesv21/socialclaw) - Schedule and publish social media posts across 13 platforms (X, LinkedIn, Instagram, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, Pinterest) via a single workspace API key.
+
 #### Skills by Surendran B
 - [surendranb/writing-skills](https://github.com/surendranb/writing-skills) - 15 writing-style skills: 8 measurable frameworks (plain language, ASD-STE100, AP journalism, GOV.UK, business BLUF) and 7 character voices, each with a verify checklist
 
@@ -385,6 +387,7 @@ Install from [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstrea
 - [resend/email-best-practices](https://github.com/resend/resend-skills/tree/main/skills/email-best-practices) - Email deliverability and design best practices
 
 #### Skills by Sanity
+Install from [sanity-io/agent-toolkit](https://github.com/sanity-io/agent-toolkit).
 - [sanity-io/sanity-best-practices](https://github.com/sanity-io/agent-toolkit/tree/main/skills/sanity-best-practices) - Best practices for Sanity Studio and content workflows
 - [sanity-io/content-modeling-best-practices](https://github.com/sanity-io/agent-toolkit/tree/main/skills/content-modeling-best-practices) - Guidelines for designing scalable content models in Sanity
 - [sanity-io/seo-aeo-best-practices](https://github.com/sanity-io/agent-toolkit/tree/main/skills/seo-aeo-best-practices) - SEO and answer engine optimization patterns
@@ -393,14 +396,22 @@ Install from [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstrea
 - [better-auth/best-practices](https://github.com/better-auth/skills/tree/main/better-auth/best-practices) - Best practices for Better Auth integration
 - [better-auth/create-auth](https://github.com/better-auth/skills/tree/main/better-auth/create-auth) - Create authentication setup with Better Auth
 - [better-auth/twoFactor](https://github.com/better-auth/skills/tree/main/better-auth/twoFactor) - Two-factor authentication with Better Auth
+- [better-auth/explain-error](https://github.com/better-auth/skills) - Explain Better Auth error messages
 
 #### Skills by NotFair
 Open-source SEO, GEO, and paid-ads skills for marketing work. They pull from live data through the Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP, so audits run against real numbers instead of guesses.
 - [nowork-studio/seo](https://github.com/nowork-studio/NotFair/tree/main/seo) - SEO and GEO: site analysis, keyword research, meta tags, schema markup, and content writing
 - [nowork-studio/google-ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads) - Google Ads audits: wasted-spend detection, search-term cleanup, keyword and bid management
 - [nowork-studio/meta-ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads) - Meta (Facebook + Instagram) Ads: ROAS analysis, creative-fatigue and audience-overlap diagnosis
+
 #### Skills by HumanPen
 - [humanpen/humanpen-skill](https://github.com/humanpen/humanpen-skill) - Rewrites .docx/.pptx documents to read as human-written and lower AI-detection scores
+
+#### Product Management Skills by Product on Purpose
+- [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) - 68 product management skills covering discovery, definition, delivery, and iteration, with 6 sub-agents and 12 workflows
+
+#### Skills by SuperCLI
+- [javimosch/supercli](https://github.com/javimosch/supercli) - Universal CLI router with 4,795+ agent skills (`SKILL.md`). Agents discover CLI tools by intent via `sc skills search`, inspect schemas via `sc inspect`, and execute with deterministic JSON output. Each plugin ships with its own `skills/quickstart/SKILL.md` — instant agent onboarding for 7,000+ CLI tools.
 
 <details>
 <summary><strong>Marketing Skills by Corey Haines</strong></summary>
@@ -432,6 +443,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [phuryn/product-strategy](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/product-strategy) - Create product strategy using the Canvas
 - [phuryn/user-personas](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/user-personas) - Create user personas with JTBD, pains, and gains
 - [phuryn/market-sizing](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/market-sizing) - Estimate TAM, SAM, SOM with top-down and bottom-up
+- [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - Full collection: advanced product management frameworks, OKRs, and strategy skills
 </details>
 
 <details>
@@ -443,6 +455,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [garrytan/design-review](https://github.com/garrytan/gstack/tree/main/design-review) - Visual audit and atomic fixes with screenshots
 - [garrytan/qa](https://github.com/garrytan/gstack/tree/main/qa) - QA Lead: find bugs and generate regression tests
 - [garrytan/ship](https://github.com/garrytan/gstack/tree/main/ship) - Release Engineer: sync, test, audit, and push
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Full gstack collection: YC founder stack for planning, review, QA, and shipping
 </details>
 
 ---
@@ -459,11 +472,14 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [getsentry/agents-md](https://github.com/getsentry/skills/tree/main/skills/agents-md) - Generate and manage AGENTS.md files
 - [getsentry/code-review](https://github.com/getsentry/skills/tree/main/skills/code-review) - Perform structured code reviews
 - [getsentry/find-bugs](https://github.com/getsentry/skills/tree/main/skills/find-bugs) - Find and identify bugs in code
+- [getsentry/skills](https://github.com/getsentry/skills) - Full collection: debug errors, performance issues, and traces with Sentry
 
 #### Skills by Firecrawl
-- [firecrawl/firecrawl-cli](https://github.com/firecrawl/firecrawl-grok-plugin/tree/main/skills/firecrawl-cli) - Scrape, crawl, search, and map the web via CLI
-- [firecrawl/firecrawl-agent](https://github.com/firecrawl/skills/tree/main/skills/core/firecrawl-agent) - AI agent for autonomous web scraping
+- [firecrawl/firecrawl-cli](https://github.com/firecrawl/cli/tree/main/skills/firecrawl) - Scrape, crawl, search, and map the web via CLI
+- [firecrawl/firecrawl-agent](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-agent) - AI agent for autonomous web scraping
 - [firecrawl/firecrawl-browser](https://github.com/firecrawl/cli) - Browser-based web scraping and interaction
+- [firecrawl/firecrawl-scrape](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-scrape) - Scrape web pages and extract content
+- [firecrawl/firecrawl-search](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-search) - Search the web and extract results
 
 <details>
 <summary><strong>Skills by Microsoft</strong></summary>
@@ -474,103 +490,13 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [microsoft/azure-ai-openai-dotnet](https://github.com/microsoft/skills/tree/main/.github/plugins/azure-sdk-dotnet/skills/azure-ai-openai-dotnet) - GPT-4, embeddings, and DALL-E client for .NET
 - [microsoft/azure-ai-projects-python](https://github.com/microsoft/skills/tree/main/.github/plugins/azure-sdk-python/skills/azure-ai-projects-py) - AI Foundry project client and agents for Python
 - [microsoft/azure-identity-typescript](https://github.com/microsoft/skills/tree/main/.github/plugins/azure-sdk-typescript/skills/azure-identity-ts) - Microsoft Entra ID authentication for TypeScript
+- [microsoft/skills](https://github.com/microsoft/skills) - Full official Microsoft agent skills collection
 </details>
 
 #### Skills by Binance
 - [binance/crypto-market-rank](https://github.com/binance/binance-skills-hub/tree/main/skills/binance-web3/crypto-market-rank) - Query crypto market rankings and leaderboards
 - [binance/query-token-audit](https://github.com/binance/binance-skills-hub/tree/main/skills/binance-web3/query-token-audit) - Audit token security to detect scams and honeypots
 - [binance/trading-signal](https://github.com/binance/binance-skills-hub/tree/main/skills/binance-web3/trading-signal) - Monitor on-chain Smart Money buy/sell signals
-
-#### Skills by Sanity
-
-Install from [sanity-io/agent-toolkit](https://github.com/sanity-io/agent-toolkit).
-
-| Skill | Description |
-|-------|-------------|
-| [sanity-best-practices](https://github.com/sanity-io/agent-toolkit/tree/main/skills/sanity-best-practices) | Best practices for Sanity Studio, GROQ queries, and content workflows |
-| [content-modeling-best-practices](https://github.com/sanity-io/agent-toolkit/tree/main/skills/content-modeling-best-practices) | Guidelines for designing scalable content models in Sanity |
-| [seo-aeo-best-practices](https://github.com/sanity-io/agent-toolkit/tree/main/skills/seo-aeo-best-practices) | SEO and answer engine optimization patterns for content sites |
-
-#### Skills by Better Auth
-
-Install from [better-auth/skills](https://github.com/better-auth/skills).
-
-| Skill | Description |
-|-------|-------------|
-| [best-practices](https://github.com/better-auth/skills/tree/main/better-auth/best-practices) | Best practices for Better Auth integration |
-| [explain-error](https://github.com/better-auth/skills) | Explain Better Auth error messages |
-| [create-auth](https://github.com/better-auth/skills/tree/main/better-auth/create-auth) | Create authentication setup with Better Auth |
-| [twoFactor](https://github.com/better-auth/skills/tree/main/better-auth/twoFactor) | Two-factor authentication with Better Auth |
-
-#### Marketing Skills by Corey Haines
-
-| Skill | Description |
-|-------|-------------|
-| [agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) | 18 go-to-market skills: pricing, outbound, SEO, ads, retention, and ops |
-
-#### Product Management Skills by Product on Purpose
-
-| Skill | Description |
-|-------|-------------|
-| [pm-skills](https://github.com/product-on-purpose/pm-skills) | 68 product management skills covering discovery, definition, delivery, and iteration, with 6 sub-agents and 12 workflows |
-
-#### Product Management Skills by Pawel Huryn
-
-| Skill | Description |
-|-------|-------------|
-| [pm-skills-huryn](https://github.com/phuryn/pm-skills) | Advanced product management frameworks, OKRs, and strategy skills |
-
-#### Skills by Garry Tan (gstack)
-
-| Skill | Description |
-|-------|-------------|
-| [gstack](https://github.com/garrytan/gstack) | YC founder stack recommendations for infra, tooling, and deployment |
-#### Skills by SuperCLI
-- [javimosch/supercli](https://github.com/javimosch/supercli) - Universal CLI router with 4,795+ agent skills (`SKILL.md`). Agents discover CLI tools by intent via `sc skills search`, inspect schemas via `sc inspect`, and execute with deterministic JSON output. Each plugin ships with its own `skills/quickstart/SKILL.md` — instant agent onboarding for 7,000+ CLI tools.
-
----
-
-### Security & Web Intelligence
-
-#### Skills by Trail of Bits
-
-| Skill | Description |
-|-------|-------------|
-| [safe-encryption-skill](https://github.com/grittygrease/safe-encryption-skill) | Modern encryption alternative to GPG/PGP with post-quantum support |
-| [threat-hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | Hunt for threats using Sigma detection rules |
-
-#### Skills by Sentry
-
-Install from [getsentry/skills](https://github.com/getsentry/skills).
-
-| Skill | Description |
-|-------|-------------|
-| [sentry-skills](https://github.com/getsentry/skills) | Debug errors, performance issues, and traces directly with Sentry integration |
-
-#### Skills by Firecrawl
-
-Install from [firecrawl/cli](https://github.com/firecrawl/cli).
-
-| Skill | Description |
-|-------|-------------|
-| [firecrawl-cli](https://github.com/firecrawl/cli/tree/main/skills/firecrawl) | Scrape, crawl, search, and map the web via CLI |
-| [firecrawl-agent](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-agent) | AI agent for autonomous web scraping and data extraction |
-| [firecrawl-scrape](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-scrape) | Scrape web pages and extract content |
-| [firecrawl-search](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-search) | Search the web and extract results |
-
-#### Skills by Microsoft
-
-Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills).
-
-| Skill | Description |
-|-------|-------------|
-| [agent-skills](https://github.com/microsoft/agent-skills) | Official Microsoft agent skills collection |
-
-#### Skills by Binance
-
-| Skill | Description |
-|-------|-------------|
-| [kyberswap-skills](https://github.com/kybernetwork/kyberswap-skills) | Token swap quotes and transactions across 18 EVM chains |
 
 ---
 
@@ -605,6 +531,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [Vladimir-Human/humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Russian AI-writing cleanup with 38 style patterns and 35 regex markers.
 - [gooseworks-ai/goose-skills](https://github.com/gooseworks-ai/goose-skills) - 125 growth/GTM skills for ads, lead gen, outreach, and SEO
 - [wgwtest/novel-writing](https://github.com/wgwtest/novel-writing) - Codex skill for fiction planning, drafting, and revision with viewpoint, scene-causality, dialogue, and style-preservation checks
+- [chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills) - 18 go-to-market skills: pricing, outbound, SEO, ads, retention, and ops
 </details>
 
 <details>
@@ -716,6 +643,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [HeyVincent-ai/agent-skills](https://github.com/HeyVincent-ai/agent-skills) - Polymarket prediction market trading for agents
 - [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) - Cryptocurrency, web3 and blockchain skills
 - [RioTheGreat-ai/agentfund-skill](https://github.com/RioTheGreat-ai/agentfund-skill) - Crowdfunding for AI agents on Base chain - milestone escrow
+- [kybernetwork/kyberswap-skills](https://github.com/kybernetwork/kyberswap-skills) - Token swap quotes and transactions across 18 EVM chains
 </details>
 
 <details>
@@ -748,6 +676,8 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <summary><strong>Security</strong></summary>
 
 - [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) - Digital forensics analysis and investigation
+- [grittygrease/safe-encryption-skill](https://github.com/grittygrease/safe-encryption-skill) - Modern encryption alternative to GPG/PGP with post-quantum support
+- [jthack/threat-hunting-with-sigma-rules-skill](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Hunt for threats using Sigma detection rules
 </details>
 
 <details>
@@ -969,8 +899,6 @@ if __name__ == "__main__":
 - [MCP Official Documentation](https://modelcontextprotocol.io/) — The open standard
 - [Build your first MCP Server](https://modelcontextprotocol.io/docs/first-server) — Python/TypeScript guide
 - [MCP Server Examples](https://github.com/modelcontextprotocol/servers) — Official server implementations
-
----
 
 ---
 
