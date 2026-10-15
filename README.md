@@ -601,6 +601,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [swarmclawai/swarmvault](https://github.com/swarmclawai/swarmvault/tree/main/skills/swarmvault) - Build local knowledge vaults and context packs
 </details>
 
+<details>
+<summary><strong>Education and Teaching</strong></summary>
+
+- [YujxZJCN/teaching-skills](https://github.com/YujxZJCN/teaching-skills) - University teaching lifecycle for professors: course design, lessons, exams, grading (Codex: YujxZJCN/teaching-skills-codex)
+</details>
+
 ---
 
 ## Skill Quality Standards
