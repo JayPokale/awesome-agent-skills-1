@@ -689,6 +689,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <summary><strong>Writing & Storytelling</strong></summary>
 
 - [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) - 16 skills for planning, tracking, and drafting fiction in markdown (worldbuilding, characters, plot, scenes, chapters, revision, continuity), plus a CLI that checks continuity
+- [Qiuner/birdview](https://github.com/Qiuner/birdview) - Treat architecture and constraints as the enduring work of programming, with reviewable scope, evidence, and verification in standalone HTML
 </details>
 
 ---
