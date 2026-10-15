@@ -353,6 +353,8 @@ Install from [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstrea
 
 #### Skills by SocialClaw
 - [ndesv21/socialclaw](https://github.com/ndesv21/socialclaw) - Schedule and publish social media posts across 13 platforms (X, LinkedIn, Instagram, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, Pinterest) via a single workspace API key.
+#### Skills by Surendran B
+- [surendranb/writing-skills](https://github.com/surendranb/writing-skills) - 15 writing-style skills: 8 measurable frameworks (plain language, ASD-STE100, AP journalism, GOV.UK, business BLUF) and 7 character voices, each with a verify checklist
 
 #### Skills by Composio
 - [composiohq/composio](https://agent-skill.co/composiohq/skills/composio) - Connect AI agents to 1000+ external apps with managed authentication
