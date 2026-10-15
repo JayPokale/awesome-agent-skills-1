@@ -49,6 +49,7 @@ That's it. No installation. No configuration. No coding required.
   - [Context Engineering](#context-engineering)
   - [Crypto and Market Data](#crypto-and-market-data)
   - [Writing & Storytelling](#writing--storytelling)
+  - [Media & Content](#media--content)
 - [Skill Quality Standards](#skill-quality-standards)
 - [Using Skills](#using-skills)
 - [Creating Skills](#creating-skills)
@@ -690,6 +691,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 
 - [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) - 16 skills for planning, tracking, and drafting fiction in markdown (worldbuilding, characters, plot, scenes, chapters, revision, continuity), plus a CLI that checks continuity
 - [Qiuner/birdview](https://github.com/Qiuner/birdview) - Treat architecture and constraints as the enduring work of programming, with reviewable scope, evidence, and verification in standalone HTML
+</details>
+
+<details>
+<summary><strong>Media & Content</strong></summary>
+
+- [tubeagentkit/youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills) - Fetch YouTube transcripts, search videos/channels, browse channels, and extract playlists via getyoutubetranscript.com's free-tier API
 </details>
 
 ---
