@@ -601,6 +601,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <summary><strong>Career</strong></summary>
 
 - [vaibhavarora14/job-application-agent](https://github.com/vaibhavarora14/job-application-agent) - Privacy-first skill to discover, qualify, complete, and track your own job applications
+- [socai-io/jev-social](https://github.com/socai-io/jev-social/tree/main/skills/jev-social) - Research social platforms through typed Jev actions in local Chrome
 </details>
 
 <details>
