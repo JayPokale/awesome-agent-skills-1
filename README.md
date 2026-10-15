@@ -48,6 +48,7 @@ That's it. No installation. No configuration. No coding required.
   - [Development and Testing](#development-and-testing)
   - [Context Engineering](#context-engineering)
   - [Crypto and Market Data](#crypto-and-market-data)
+  - [Writing & Storytelling](#writing--storytelling)
 - [Skill Quality Standards](#skill-quality-standards)
 - [Using Skills](#using-skills)
 - [Creating Skills](#creating-skills)
@@ -680,6 +681,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <summary><strong>Creative and Media</strong></summary>
 
 - [Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill) - Rewrite rough ideas into model-ready text-to-video prompts (Seedance, Sora, Kling, Veo); bilingual EN/中文
+</details>
+
+<details>
+<summary><strong>Writing & Storytelling</strong></summary>
+
+- [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) - 16 skills for planning, tracking, and drafting fiction in markdown (worldbuilding, characters, plot, scenes, chapters, revision, continuity), plus a CLI that checks continuity
 </details>
 
 ---
