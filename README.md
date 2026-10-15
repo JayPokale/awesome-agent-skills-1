@@ -614,6 +614,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [Necmttn/ax-extract-workflow](https://github.com/Necmttn/ax/tree/main/skills/ax-extract-workflow) - Reconstruct shipped workflows from local ax sessions, commits, skills, and subagent traces
 </details>
 
+<details>
+<summary><strong>Creative and Media</strong></summary>
+
+- [Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill) - Rewrite rough ideas into model-ready text-to-video prompts (Seedance, Sora, Kling, Veo); bilingual EN/中文
+</details>
+
 ---
 
 ## Skill Quality Standards
