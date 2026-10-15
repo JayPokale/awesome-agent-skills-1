@@ -979,15 +979,14 @@ Every skill in this list is a public GitHub repository — you can read the full
 
 ## Contributing
 
-Contributions are welcome. See **[CONTRIBUTING.md](CONTRIBUTING.md)** for full guidelines.
+Contributions are welcome. See **[CONTRIBUTING.md](CONTRIBUTING.md)** for full guidelines. **Submitting with an AI agent? Have it read [AGENTS.md](AGENTS.md) first.**
 
 Quick summary:
-- Follow the skill template structure
-- Provide clear, actionable instructions
-- Include working examples where appropriate
-- Document trade-offs and potential issues
-- Keep SKILL.md under 500 lines for optimal performance
-- Verify that skills actually exist before adding them
+- Only public GitHub repositories that contain a `SKILL.md` are listed
+- Entries are merged once the repository has at least 20 stars and is older than 14 days
+- Add one line to the end of an existing category under Community Skills; change nothing else
+- Suggest skills with a pull request, not an issue
+- Directories, marketplaces, badges and promotional links are not accepted
 
 ---
 
