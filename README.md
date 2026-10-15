@@ -550,6 +550,9 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <summary><strong>Data & Analytics</strong></summary>
 
 - [honeydew-ai/honeydew-ai-coding-agents-plugins](https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins) - 11 skills + MCP server for building and querying a governed semantic layer over Snowflake, Databricks, and BigQuery from coding agents (Claude Code, Codex, Cursor, Copilot CLI, Gemini CLI). Same trusted model serves BI tools and AI agents. Plugins are Apache 2.0.
+<summary><strong>Cloud Storage</strong></summary>
+
+- [backblaze-labs/claude-skill-b2-cloud-storage](https://github.com/backblaze-labs/claude-skill-b2-cloud-storage) - Manage Backblaze B2 storage: list, audit, cleanup, security, lifecycle
 </details>
 
 <details>
